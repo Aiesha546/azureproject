@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureproject4",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cc32ead1-9d2e-4d5d-9e57-a59a93d97104",
+		"tenantId": "3595d9ab-632e-4e7f-9658-469c58647bf0"
+	}
+}
